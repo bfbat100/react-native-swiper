@@ -1,4 +1,4 @@
-<p align="center">
+11<p align="center">
   <img alt="react-native-swiper" src="http://i.imgur.com/P4cRUgD.png" width="208">
 </p>
 
